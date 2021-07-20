@@ -1,0 +1,66 @@
+
+/*
+@media (max-width: 45em) {
+  .tabs .tab,
+  .tabs label {
+    order: initial;
+  }
+  .tabs label {
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0.2rem;
+  }
+}*/
+
+/**
+ * Generic Styling
+*/
+body {
+    background: #ebebeb;
+    min-height: 100vh;
+    box-sizing: border-box;
+    padding-top: 10vh;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    line-height: 1.5;
+    max-width: 70rem;
+    margin: 0 auto;
+   
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h4 {
+    font-size: 34px;
+}
+
+hr {
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.container {
+    background: #ffffff;
+    height: 500px;
+}
+
+.row {
+    padding: 20px;
+    
+}
+
+.searchBx {
+    padding-bottom: 20px
+}
+
+.back {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.row .col h4 {
+    font-size: 18px;
+}
+

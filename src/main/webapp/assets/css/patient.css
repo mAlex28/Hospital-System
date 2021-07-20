@@ -1,0 +1,30 @@
+
+body {
+    background: #eee;
+    box-sizing: border-box;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 112%;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h4 {
+    font-size: 24px;
+}
+
+hr {
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.table {
+    width: 100%;
+}
+
+.table {
+    font-size: 15px;
+}
